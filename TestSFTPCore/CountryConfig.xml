@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DIContainer>
+  <Countries>
+  <Country>
+    <CountryCode>CAN</CountryCode>
+    <LocalFolderPath>C:\Users\91124\Documents\DataIngestion_Files\</LocalFolderPath>
+    <FilePrefix>Optin_MovedToCore</FilePrefix>
+  </Country>
+  <Country>
+    <CountryCode>USA</CountryCode>
+    <LocalFolderPath>C:\Users\91124\Documents\DataIngestion_Files_USA\</LocalFolderPath>
+    <FilePrefix>Optin_MovedToCore_USA</FilePrefix>
+  </Country>
+  </Countries>
+    </DIContainer>
+    
